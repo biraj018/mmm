@@ -15,9 +15,9 @@ const Message = () => {
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
           Even though we have met recently & I guess we know a little about eachother but this
-          is my little gift to show you how much I value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories down the lane.
-          I'm with whenever you need and want to see you fulfill all your dreans in life,let's hope our friendship lasts forever.
+          is my little gift to show you how much I value you.This is my way 
+          to show that our friendship just started and I hope we will be making some great memories down the lane.
+          I'm with you whenever you need me and want to see you fulfill all your dreams in life,let's hope our friendship lasts forever. And all the best for ICSE!!!!
         </p>
         <p className="text-lg text-pink-600 font-semibold">
           and on your special day, i wish you the happiest birthday.
