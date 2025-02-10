@@ -14,13 +14,13 @@ const Message = () => {
           Dear Madam Ji,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+          Even though we have met recently & I guess we know a little about eachother but this
+          is my little gift to show you how much I value people.This is a way 
+          to show that our friendship just started and i hope we will be making some great memories down the lane.
+          I'm with whenever you need and want to see you fulfill all your dreans in life,let's hope our friendship lasts forever.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          and on your special day, i wish you the happiest birthday.
         </p>
       </motion.div>
     </div>
