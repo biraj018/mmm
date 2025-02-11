@@ -15,12 +15,10 @@ const Message = () => {
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
           Even though we have met recently & I guess we know a little about eachother but this
-          is my little gift to show you how much I value you.This is my way 
-          to show that our friendship just started and I hope we will be making some great memories down the lane.
-          I'm with you whenever you need me and want to see you fulfill all your dreams in life,let's hope our friendship lasts forever. And all the best for ICSE!!!!
+          is my little gift to show you how much I value you. May your sky always be clear, may your dear smile always be bright and happy, and may you be for ever blessed for that moment of bliss and happiness which you gave to another lonely and grateful heart of mine. I wish you all the success you dream of in life and the a good health to work hard for them. And all the best for ICSE!!!
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday.
+          and on your special day, I wish you the happiest birthday.
         </p>
       </motion.div>
     </div>
