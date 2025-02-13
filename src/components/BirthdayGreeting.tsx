@@ -5,7 +5,7 @@ import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
   "Hello Madam Jiiii",
-  "It's Your Special Day Yeyey!",
+  "It's Your Special Day Yeyey!Btw poem is ready too text me when you are free to get it.",
   "So, I had to make something special for you cuz you are special to me!",
   "Do you wanna see what I made??"
 ];
