@@ -14,8 +14,12 @@ const Message = () => {
           Dear Madam Ji,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & I guess we know a little about eachother but this
-          is my little gift to show you how much I value you. May your sky always be clear, may your dear smile always be bright and happy, and may you be for ever blessed for that moment of bliss and happiness which you gave to another lonely and grateful heart of mine. I wish you all the success you dream of in life and the a good health to work hard for them. And all the best for ICSE!!!
+          Happy Birthday Future wife🎂
+Happy 16th Birthday to the most caring and loving person 
+I want to take a moment to celebrate this incredible day of yours who brings light and happiness in my life.......Really no words can express how special you are to me.
+Once again happy birthday to you
+I lovee youuu a lotttt
+And I pray to God we walk out path to success together.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
           and on your special day, I wish you the happiest birthday.
