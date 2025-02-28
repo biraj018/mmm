@@ -6,7 +6,7 @@ import { Heart, Sparkles } from 'lucide-react';
 const messages = [
   "Hello Madam Jiiii",
   "You are back again!!",
-  "Chalo ayi ho to dekhar jana ;)",
+  "Chalo ayi ho to dekhkar jana ;)",
   "Aage badhe ??"
 ];
 
