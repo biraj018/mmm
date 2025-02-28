@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import { Music, Cake as CakeIcon } from 'lucide-react';
 import Banner from './images/banner.png';
-import Musicc from './audio.mp3';
-import CatCake from './images/cat-face-cake.jpg'
+import Musicc from './ahatamatarmusic.mp3';
+import CatCake from './images/cd43b236r9vz.jpg'
 const Surprise = () => {
   const [stage, setStage] = useState(0);
   const [isLit, setIsLit] = useState(false);
