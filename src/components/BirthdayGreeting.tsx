@@ -5,9 +5,9 @@ import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
   "Hello Madam Jiiii",
-  "It's Your Special Day Yeyey!",
-  "So, I had to make something special for you cuz you are special to me!",
-  "Do you wanna see what I made??"
+  "You are back again!!",
+  "Chalo ayi ho to dekhar jana ;)",
+  "Aage badhe ??"
 ];
 
 const BirthdayGreeting = () => {
@@ -117,7 +117,7 @@ const BirthdayGreeting = () => {
               className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-xl text-center"
             >
               <p className="text-2xl font-semibold text-gray-800">
-                Have a look at it, Madam Jiii
+                Waise aap badi pyaari laag rahi ho aap :)
               </p>
             </motion.div>
           )}
