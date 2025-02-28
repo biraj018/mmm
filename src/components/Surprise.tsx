@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { Music, Cake as CakeIcon } from 'lucide-react';
 import Banner from './images/banner.png';
 import Musicc from './ahatamatarmusic.mp3';
-import CatCake from './images/cd43b236r9vz.jpg'
+import CatCake from './images/gift1.webp'
 const Surprise = () => {
   const [stage, setStage] = useState(0);
   const [isLit, setIsLit] = useState(false);
