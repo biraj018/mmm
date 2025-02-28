@@ -14,7 +14,6 @@ const Surprise = () => {
   const buttonLabels = [
     "Lights On",
     "Play Music",
-    "Decorate",
     "Fly the Balloons",
     "No cake this time, par apki ek photo hai.",
     "Aage badhe."
@@ -53,21 +52,7 @@ const Surprise = () => {
         </div>
       )}
 
-      {/* Happy Birthday Message */}
-      {stage >= 3 && (
-        <motion.h1
-          initial={{ y: -100, opacity: 0 }}
-          animate={{ y: -20, opacity: 1 }}
-          transition={{ duration: 1, ease: 'easeOut' }}
-          className="absolute inset-0 flex justify-center items-start mt-40"
-        >
-          <img
-            src={Banner}
-            className="w-full max-w-xs md:max-w-md h-auto mt-10 pt-10"
-            alt="Happy Birthday"
-          />
-        </motion.h1>
-      )}
+     
 
       {/* Flying Balloons */}
       {stage >= 4 && (
