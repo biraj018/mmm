@@ -17,7 +17,7 @@ const Message = () => {
           Today isn't your birthday so no message, wait till your birthday next year. Sabra ka phal meetha hota hai, apse zyada nahi, par meetha hai.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          Vaise aap bohot pyaari lag rahi ho.
+          Vaise aakhein badi sundar hai aap ki.
         </p>
       </motion.div>
     </div>
