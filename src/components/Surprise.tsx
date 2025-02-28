@@ -24,7 +24,7 @@ const Surprise = () => {
       setIsLit(true);
     } else if (stage === 1 && audioRef.current) {
       audioRef.current.play();
-    } else if (stage === 5) {
+    } else if (stage === 4) {
       navigate('/message');
       return;
     }
