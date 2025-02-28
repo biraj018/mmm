@@ -55,7 +55,7 @@ const Surprise = () => {
      
 
       {/* Flying Balloons */}
-      {stage >= 4 && (
+      {stage >= 3 && (
         <div className="absolute inset-0 pointer-events-none">
           {[...Array(15)].map((_, i) => (
             <motion.div
@@ -85,7 +85,7 @@ const Surprise = () => {
       )}
 
       {/* Cake */}
-      {stage >= 5 && (
+      {stage >= 4 && (
         <motion.div
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
