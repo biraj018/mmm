@@ -22,13 +22,13 @@ const Surprise = () => {
   const handleClick = () => {
     if (stage === 0) {
       setIsLit(true);
-    } else if (stage === 1 && audioRef.current) {
+    } else if (stage === 0 && audioRef.current) {
       audioRef.current.play();
     } else if (stage === 4) {
       navigate('/message');
       return;
     }
-    setStage((prev) => prev);
+    setStage((prev) => prev + 1);
   };
 
   return (
