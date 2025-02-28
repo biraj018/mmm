@@ -14,15 +14,10 @@ const Message = () => {
           Dear Madam Ji,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Happy Birthday Future wife🎂
-Happy 16th Birthday to the most caring and loving person 
-I want to take a moment to celebrate this incredible day of yours who brings light and happiness in my life.......Really no words can express how special you are to me.
-Once again happy birthday to you
-I lovee youuu a lotttt
-And I pray to God we walk out path to success together.
+          Today isn't your birthday so no message, wait till your birthday next year. Sabra ka phal meetha hota hai, apse zyada nahi, par meetha hai.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, I wish you the happiest birthday.
+          Vaise aap bohot pyaari lag rahi ho.
         </p>
       </motion.div>
     </div>
