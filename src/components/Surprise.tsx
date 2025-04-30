@@ -14,17 +14,19 @@ const Surprise = () => {
   const buttonLabels = [
     "Lights On",
     "Play Music",
+    "Decorate",
     "Fly the Balloons",
-    "No cake this time, par apki ek photo hai.",
-    "Aage badhe."
+    "Aap logo ekpyara sa photo....",
+    "I have message for you mummy and papa."
   ];
+
 
   const handleClick = () => {
     if (stage === 0) {
       setIsLit(true);
-    } else if (stage === 0 && audioRef.current) {
+    } else if (stage === 1&& audioRef.current) {
       audioRef.current.play();
-    } else if (stage === 4) {
+    } else if (stage === 5) {
       navigate('/message');
       return;
     }
